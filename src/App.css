@@ -1,0 +1,8 @@
+body {
+    background-color: #111315;
+    background-image: url('./assets/bg-cafe.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    object-fit: cover;
+}
